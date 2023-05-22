@@ -1,0 +1,2 @@
+vless://491e9252-c4a1-41c8-fb45-45df33e6960a@foxnim.cam:2082?path=%2F%40foxnim&security=none&encryption=none&type=ws#%40foxnim
+vless://d8d6d521-27b0-452b-cb03-4908b49016dd@foxnim.cam:2086?path=%2F%40foxnim&security=none&encryption=none&type=ws#%40foxnim
